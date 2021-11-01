@@ -1,5 +1,4 @@
-name: Linter
-
+name: Linter_latest
 on: [push]
 
 jobs:
@@ -16,5 +15,4 @@ jobs:
       uses: abaplint/actions-abaplint@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        version: '2.79.35' 
+
