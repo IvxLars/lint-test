@@ -1,14 +1,12 @@
 name: Bug Report
 description: File a bug report
-branding:
-  icon: 'award'
-  color: 'green'
 title: "[Bug]: "
 labels: ["bug", "triage"]
-assignees:
-  - octocat
 body:
   - type: markdown
+    branding:
+    icon: 'award'
+    color: 'green'
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
