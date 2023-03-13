@@ -4,9 +4,6 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 body:
   - type: markdown
-    branding:
-    icon: 'award'
-    color: 'green'
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
