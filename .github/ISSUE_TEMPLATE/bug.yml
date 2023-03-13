@@ -1,4 +1,4 @@
-name: Bug Report
+name: 🐞Bug Report
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug,triage"]
@@ -6,9 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-       | Estimate | Dependencies |
-       |----------|------:|
-       | __h      |  |
+        Fill out this bug report as best you can. 
+    
   - type: textarea
     id: what-happened
     attributes:
